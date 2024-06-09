@@ -1,21 +1,21 @@
 # [hnoj-solutions](https://hnoj.edu.vn/problems/?order=-user_count) solutions
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsangdev%2Fhnoj-solutions.json&label=visitors&color=blue"></a>
+  <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsanghoclaptrinh%2Fhnoj-solutions.json&label=visitors&color=blue"></a>
   <a href="#"><img src="https://img.shields.io/badge/language-C++-blue"></a>
-  <a href="#"><img src="https://img.shields.io/github/repo-size/tmsangdev/hnoj-solutions"></a>
-  <a href="https://github.com/tmsangdev/hnoj-solutions/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tmsangdev/hnoj-solutions?label=License"></a>
+  <a href="#"><img src="https://img.shields.io/github/repo-size/tmsanghoclaptrinh/hnoj-solutions"></a>
+  <a href="https://github.com/tmsanghoclaptrinh/hnoj-solutions/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tmsanghoclaptrinh/hnoj-solutions?label=License"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/tmsangdev"><img src="https://img.shields.io/badge/author-tmsangdev-41454A?logo=github&labelColor=grey"></a>
+  <a href="https://github.com/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/author-tmsanghoclaptrinh-41454A?logo=github&labelColor=grey"></a>
   <a href="https://facebook.com/clb.it.ngoctao"><img src="https://img.shields.io/badge/facebook-clb.it.ngoctao-41454A?logo=facebook&logoColor=white&labelColor=blue"></a>
-  <a href="https://www.youtube.com/@tmsangdev"><img src="https://img.shields.io/badge/youtube-tmsangdev-41454A?logo=youtube&logoColor=white&labelColor=red"></a>
+  <a href="https://www.youtube.com/@tmsanghoclaptrinh"><img src="https://img.shields.io/badge/youtube-tmsanghoclaptrinh-41454A?logo=youtube&logoColor=white&labelColor=red"></a>
   <a href="https://discord.gg/ajXr5kRKkk">
         <img src="https://img.shields.io/discord/994125923819458590?logo=discord&logoColor=white&labelColor=5865F2&color=green"
             alt="chat on Discord"></a>
   <a href="https://viblo.asia/u/tmsangdev"><img src="https://img.shields.io/badge/viblo-tmsangdev-white"></a>
-  <a href="https://dev.to/tmsangdev"><img src="https://img.shields.io/badge/dev.to-tmsangdev-white"></a>
+  <a href="https://dev.to/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/dev.to-tmsanghoclaptrinh-white"></a>
 </p>
 
 ### Series video "Lên trình Thuật toán - Lập trình thi đấu": 
